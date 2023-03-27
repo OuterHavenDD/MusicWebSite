@@ -1,0 +1,27 @@
+@media (max-width: 1631px) {
+    #header {
+        background-position: center top 50%;
+        height: 100vh;
+    }
+  }
+  
+  @media (max-width: 1440px) {
+    #header {
+        background-position: center top 50%;
+        height: 100%;
+    }
+  }
+  
+  @media (max-width: 768px) {
+    #header {
+        background-position: center top 50%;
+        height: 100%;
+    }
+  }
+  
+  @media (max-width: 320px) {
+    #header {
+    
+        height: 100%;
+    }
+  }
