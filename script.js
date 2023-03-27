@@ -21,7 +21,7 @@ $(document).ready(function() {
 
   $('#link-home').on('click', function(event) {
     event.preventDefault();
-    loadPage('home.html');
+    loadPage('index.html');
   });
 
 
