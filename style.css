@@ -501,6 +501,11 @@ to {
 
 
 @media(max-width: 1024px){
+
+  #contact {
+    height: 25vh;
+  }
+
   .section-container {
     display: block;
     width: 100%;
@@ -526,6 +531,11 @@ to {
 } 
 
 @media(max-width: 768px){
+
+  #contact {
+    height: 25vh;
+  }
+
   .section-container {
     display: block;
     width: 100%;
@@ -551,13 +561,17 @@ to {
 }
 
 @media (max-width: 450px){
+
+  #contact {
+    height: 25vh;
+  }
+
   .section-container {
     display: block;
     width: 100%;
     align-items: center;
     justify-content: center;
     padding: 4% 10%;
-    margin-top: 100px;
   }
 
 
